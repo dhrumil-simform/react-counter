@@ -1,15 +1,6 @@
 import React, { Component } from 'react';
 
 class Counter extends Component {
-    // state = {
-    //     value: this.props.counter.Value
-    // }
-
-    // constructor(){
-    //     super()
-    //     this.handleIncrement = this.handleIncrement.bind(this)
-    // }
-
     render() {   
         return ( 
         <div>
